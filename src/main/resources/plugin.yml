@@ -1,7 +1,7 @@
 name: CandorTrial
 version: '${project.version}'
 main: com.berttowne.candortrial.CandorTrial
-api-version: '1.20'
+api-version: '1.21'
 commands:
     teleport:
         description: Teleport to a specific location
